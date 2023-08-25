@@ -25,5 +25,7 @@ public class Product {
     @Column(name="price")
   private float price;
 
+    private int age;
+
 
 }
