@@ -26,8 +26,5 @@ public class Product {
   private float price;
 
 
-    private int gender;
-    private int age;
-
 
 }
